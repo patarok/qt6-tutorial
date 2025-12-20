@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_qt_tut6_qtMap_whichIsA_Dictionary_FILE C:/Users/patos/Documents/qt_tut6_qtMap_whichIsA_Dictionary/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut6_qtMap_whichIsA_Dictionary.exe)
+set(__QT_DEPLOY_TARGET_qt_tut6_qtMap_whichIsA_Dictionary_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_qt_tut6_qtMap_whichIsA_Dictionary_RUNTIME_DLLS C:/Qt/6.10.0/mingw_64/bin/Qt6Core.dll)

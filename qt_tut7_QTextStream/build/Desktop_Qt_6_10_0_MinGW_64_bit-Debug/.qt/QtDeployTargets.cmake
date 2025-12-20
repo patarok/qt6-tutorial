@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_qt_tut7_QTextStream_FILE C:/Users/patos/Documents/qt_tut7_QTextStream/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut7_QTextStream.exe)
+set(__QT_DEPLOY_TARGET_qt_tut7_QTextStream_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_qt_tut7_QTextStream_RUNTIME_DLLS C:/Qt/6.10.0/mingw_64/bin/Qt6Core.dll)

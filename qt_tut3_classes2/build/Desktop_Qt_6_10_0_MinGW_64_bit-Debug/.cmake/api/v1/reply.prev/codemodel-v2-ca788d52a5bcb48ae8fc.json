@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9326ee26e6dfde67078c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt_tut3_classes2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_tut3_classes2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_tut3_classes2-Debug-643c28bdf2e8bb23febc.json",
+					"name" : "qt_tut3_classes2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_tut3_classes2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_tut3_classes2_autogen-Debug-8c59075dee7aa02b5e13.json",
+					"name" : "qt_tut3_classes2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_tut3_classes2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_tut3_classes2_autogen_timestamp_deps-Debug-16f17cb6c1ef0872079a.json",
+					"name" : "qt_tut3_classes2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/patos/Documents/qt_tut3_classes2/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/patos/Documents/qt_tut3_classes2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

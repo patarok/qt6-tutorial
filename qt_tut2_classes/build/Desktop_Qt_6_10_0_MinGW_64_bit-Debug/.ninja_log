@@ -1,0 +1,9 @@
+# ninja log v6
+5	996	7876751608720097	qt_tut2_classes_autogen/timestamp	36f5222ecf29a352
+5	996	7876751608720097	qt_tut2_classes_autogen/mocs_compilation.cpp	36f5222ecf29a352
+5	996	7876751608720097	C:/Users/patos/Documents/qt_tut2_classes/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut2_classes_autogen/timestamp	36f5222ecf29a352
+5	996	7876751608720097	C:/Users/patos/Documents/qt_tut2_classes/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut2_classes_autogen/mocs_compilation.cpp	36f5222ecf29a352
+1007	2939	7876751609695189	CMakeFiles/qt_tut2_classes.dir/main.cpp.obj	991024702e313166
+1013	2940	7876751609755195	CMakeFiles/qt_tut2_classes.dir/test.cpp.obj	763b19c1193b6c63
+1001	2974	7876751609634914	CMakeFiles/qt_tut2_classes.dir/qt_tut2_classes_autogen/mocs_compilation.cpp.obj	bc5ca703a9a82044
+2974	3436	7876751629359056	qt_tut2_classes.exe	79b752c2deb378ee
