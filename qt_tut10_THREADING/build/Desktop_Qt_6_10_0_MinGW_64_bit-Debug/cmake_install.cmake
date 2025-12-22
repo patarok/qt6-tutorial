@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/patos/Documents/qt_tut10_THREADING
+# Install script for directory: C:/Users/patos/Documents/qt6-tutorial/qt_tut10_THREADING
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

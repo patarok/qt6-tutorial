@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-90024da9b0f5625db03f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt_tut11_ThrAdv",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_tut11_ThrAdv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_tut11_ThrAdv-Debug-f96a9d2c437004f2062e.json",
+					"name" : "qt_tut11_ThrAdv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_tut11_ThrAdv_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_tut11_ThrAdv_autogen-Debug-7fe4226634be7b449027.json",
+					"name" : "qt_tut11_ThrAdv_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_tut11_ThrAdv_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_tut11_ThrAdv_autogen_timestamp_deps-Debug-9bc41c6323285feb0974.json",
+					"name" : "qt_tut11_ThrAdv_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/patos/Documents/qt_tut11_ThrAdv/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/patos/Documents/qt6-tutorial/qt_tut11_ThrAdv"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

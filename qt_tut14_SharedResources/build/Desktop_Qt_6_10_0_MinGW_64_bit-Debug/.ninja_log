@@ -1,0 +1,15 @@
+# ninja log v6
+10	2057	7881385395851692	qt_tut14_SharedResources_autogen/timestamp	6cb9ca02abb88ff3
+10	2057	7881385395851692	qt_tut14_SharedResources_autogen/mocs_compilation.cpp	6cb9ca02abb88ff3
+10	2057	7881385395851692	C:/Users/patos/Documents/qt_tut14_SharedResources/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut14_SharedResources_autogen/timestamp	6cb9ca02abb88ff3
+10	2057	7881385395851692	C:/Users/patos/Documents/qt_tut14_SharedResources/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut14_SharedResources_autogen/mocs_compilation.cpp	6cb9ca02abb88ff3
+2070	9520	7881385397103910	CMakeFiles/qt_tut14_SharedResources.dir/main.cpp.obj	e06b1c27b6779f75
+2065	9532	7881385397051896	CMakeFiles/qt_tut14_SharedResources.dir/qt_tut14_SharedResources_autogen/mocs_compilation.cpp.obj	b674d9f43c7e0f94
+2075	9536	7881385397163989	CMakeFiles/qt_tut14_SharedResources.dir/worker.cpp.obj	5fa46ca74de2e658
+9536	10180	7881385471762492	qt_tut14_SharedResources.exe	669c6d77d59f06a7
+10	178	7881386083233698	qt_tut14_SharedResources_autogen/timestamp	6cb9ca02abb88ff3
+10	178	7881386083233698	qt_tut14_SharedResources_autogen/mocs_compilation.cpp	6cb9ca02abb88ff3
+10	178	7881386083233698	C:/Users/patos/Documents/qt_tut14_SharedResources/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut14_SharedResources_autogen/timestamp	6cb9ca02abb88ff3
+10	178	7881386083233698	C:/Users/patos/Documents/qt_tut14_SharedResources/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut14_SharedResources_autogen/mocs_compilation.cpp	6cb9ca02abb88ff3
+179	4510	7881386084927867	CMakeFiles/qt_tut14_SharedResources.dir/main.cpp.obj	e06b1c27b6779f75
+4510	4660	7881386128237071	qt_tut14_SharedResources.exe	669c6d77d59f06a7

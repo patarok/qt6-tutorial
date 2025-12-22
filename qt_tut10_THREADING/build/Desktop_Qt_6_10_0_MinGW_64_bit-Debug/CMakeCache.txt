@@ -332,7 +332,7 @@ qt_tut10_THREADING_BINARY_DIR:STATIC=C:/Users/patos/Documents/qt_tut10_THREADING
 qt_tut10_THREADING_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-qt_tut10_THREADING_SOURCE_DIR:STATIC=C:/Users/patos/Documents/qt_tut10_THREADING
+qt_tut10_THREADING_SOURCE_DIR:STATIC=C:/Users/patos/Documents/qt6-tutorial/qt_tut10_THREADING
 
 
 ########################
@@ -403,7 +403,7 @@ CMAKE_GENERATOR_TOOLSET:INTERNAL=
 CMAKE_HAVE_LIBC_PTHREAD:INTERNAL=1
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=C:/Users/patos/Documents/qt_tut10_THREADING
+CMAKE_HOME_DIRECTORY:INTERNAL=C:/Users/patos/Documents/qt6-tutorial/qt_tut10_THREADING
 //ADVANCED property for variable: CMAKE_INSTALL_BINDIR
 CMAKE_INSTALL_BINDIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_INSTALL_DATADIR

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-80bd8134b9d6d4498a6d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt_tut12_ThrPool",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_tut12_ThrPool::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_tut12_ThrPool-Debug-00ede1b1d059b40e4358.json",
+					"name" : "qt_tut12_ThrPool",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_tut12_ThrPool_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_tut12_ThrPool_autogen-Debug-fe069a46412e2e0a0848.json",
+					"name" : "qt_tut12_ThrPool_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_tut12_ThrPool_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_tut12_ThrPool_autogen_timestamp_deps-Debug-4e847f49906c4192d619.json",
+					"name" : "qt_tut12_ThrPool_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/patos/Documents/qt6-tutorial/qt_tut12_ThrPool/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/patos/Documents/qt6-tutorial/qt_tut12_ThrPool"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

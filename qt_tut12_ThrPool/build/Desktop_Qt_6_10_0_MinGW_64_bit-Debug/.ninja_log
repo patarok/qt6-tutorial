@@ -1,0 +1,23 @@
+# ninja log v6
+8	1163	7880541802779879	qt_tut12_ThrPool_autogen/timestamp	8e7113af81e7c593
+8	1163	7880541802779879	qt_tut12_ThrPool_autogen/mocs_compilation.cpp	8e7113af81e7c593
+8	1163	7880541802779879	C:/Users/patos/Documents/qt6-tutorial/qt_tut12_ThrPool/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut12_ThrPool_autogen/timestamp	8e7113af81e7c593
+8	1163	7880541802779879	C:/Users/patos/Documents/qt6-tutorial/qt_tut12_ThrPool/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut12_ThrPool_autogen/mocs_compilation.cpp	8e7113af81e7c593
+1185	4026	7880541803920505	CMakeFiles/qt_tut12_ThrPool.dir/worker.cpp.obj	47be93fb4056fcd0
+1169	4209	7880541803769923	CMakeFiles/qt_tut12_ThrPool.dir/qt_tut12_ThrPool_autogen/mocs_compilation.cpp.obj	d27a4c36f25a65e6
+1180	4223	7880541803885143	CMakeFiles/qt_tut12_ThrPool.dir/manager.cpp.obj	1d9bea97023ee1a1
+1174	4226	7880541803825108	CMakeFiles/qt_tut12_ThrPool.dir/main.cpp.obj	ed97587459154719
+4226	4447	7880541834347873	qt_tut12_ThrPool.exe	494cf33c22c89237
+10	161	7880543837670435	qt_tut12_ThrPool_autogen/timestamp	8e7113af81e7c593
+10	161	7880543837670435	qt_tut12_ThrPool_autogen/mocs_compilation.cpp	8e7113af81e7c593
+10	161	7880543837670435	C:/Users/patos/Documents/qt6-tutorial/qt_tut12_ThrPool/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut12_ThrPool_autogen/timestamp	8e7113af81e7c593
+10	161	7880543837670435	C:/Users/patos/Documents/qt6-tutorial/qt_tut12_ThrPool/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut12_ThrPool_autogen/mocs_compilation.cpp	8e7113af81e7c593
+162	2342	7880543839175943	CMakeFiles/qt_tut12_ThrPool.dir/manager.cpp.obj	1d9bea97023ee1a1
+2342	2492	7880543860986221	qt_tut12_ThrPool.exe	494cf33c22c89237
+11	156	7880552862980938	qt_tut12_ThrPool_autogen/timestamp	8e7113af81e7c593
+11	156	7880552862980938	qt_tut12_ThrPool_autogen/mocs_compilation.cpp	8e7113af81e7c593
+11	156	7880552862980938	C:/Users/patos/Documents/qt6-tutorial/qt_tut12_ThrPool/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut12_ThrPool_autogen/timestamp	8e7113af81e7c593
+11	156	7880552862980938	C:/Users/patos/Documents/qt6-tutorial/qt_tut12_ThrPool/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut12_ThrPool_autogen/mocs_compilation.cpp	8e7113af81e7c593
+161	2100	7880552864479449	CMakeFiles/qt_tut12_ThrPool.dir/worker.cpp.obj	47be93fb4056fcd0
+157	2345	7880552864449447	CMakeFiles/qt_tut12_ThrPool.dir/manager.cpp.obj	1d9bea97023ee1a1
+2345	2503	7880552886331280	qt_tut12_ThrPool.exe	494cf33c22c89237

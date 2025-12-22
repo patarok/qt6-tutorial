@@ -1,0 +1,9 @@
+# ninja log v6
+6	936	7880408143402548	qt_tut11_ThrAdv_autogen/timestamp	7f90ccee70dd99b5
+6	936	7880408143402548	qt_tut11_ThrAdv_autogen/mocs_compilation.cpp	7f90ccee70dd99b5
+6	936	7880408143402548	C:/Users/patos/Documents/qt_tut11_ThrAdv/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut11_ThrAdv_autogen/timestamp	7f90ccee70dd99b5
+6	936	7880408143402548	C:/Users/patos/Documents/qt_tut11_ThrAdv/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/qt_tut11_ThrAdv_autogen/mocs_compilation.cpp	7f90ccee70dd99b5
+941	3322	7880408144149533	CMakeFiles/qt_tut11_ThrAdv.dir/qt_tut11_ThrAdv_autogen/mocs_compilation.cpp.obj	e32c85ba9ac5a246
+945	3325	7880408144189550	CMakeFiles/qt_tut11_ThrAdv.dir/main.cpp.obj	e74bd2fd546587dc
+949	3327	7880408144218380	CMakeFiles/qt_tut11_ThrAdv.dir/worker.cpp.obj	2fdd2efe48ddc8de
+3328	3794	7880408168018481	qt_tut11_ThrAdv.exe	499d9921bb99bacf
