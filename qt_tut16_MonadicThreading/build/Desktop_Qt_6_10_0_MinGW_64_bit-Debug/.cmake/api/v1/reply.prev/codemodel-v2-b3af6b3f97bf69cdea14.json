@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-25e65ebaece8116ec3cb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt_tut16_MonadicThreading",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_tut16_MonadicThreading::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_tut16_MonadicThreading-Debug-a9ff1eb2a40bd2938f39.json",
+					"name" : "qt_tut16_MonadicThreading",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_tut16_MonadicThreading_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_tut16_MonadicThreading_autogen-Debug-a7cf38a316a2565474f3.json",
+					"name" : "qt_tut16_MonadicThreading_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_tut16_MonadicThreading_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_tut16_MonadicThreading_autogen_timestamp_deps-Debug-472c4c5feaf976ba170c.json",
+					"name" : "qt_tut16_MonadicThreading_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/patos/Documents/qt_tut16_MonadicThreading/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/patos/Documents/qt_tut16_MonadicThreading"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
