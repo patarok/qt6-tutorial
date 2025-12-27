@@ -2,6 +2,7 @@
 #define DIALOG_H
 
 #include <QDialog>
+#include <QLineEdit>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -27,6 +28,8 @@ private slots:
 private:
     Ui::Dialog *ui;
     QMap<QString, int> m_types;
-    int le_multiplier = 2;
+    bool readInt(QLineEdit *edit, int &out) const;
+    //void reserveClearButtonSpace(QLineEdit *le);
 };
+
 #endif // DIALOG_H
